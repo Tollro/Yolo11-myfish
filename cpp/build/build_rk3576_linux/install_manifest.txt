@@ -1,0 +1,9 @@
+/home/cat/python_docs/lubancat_ai_manual_code/example/yolo11-myfish/cpp/install/rk3576_linux/./yolo11_image_demo
+/home/cat/python_docs/lubancat_ai_manual_code/example/yolo11-myfish/cpp/install/rk3576_linux/./yolo11_videocapture_demo
+/home/cat/python_docs/lubancat_ai_manual_code/example/yolo11-myfish/cpp/install/rk3576_linux/./yolo11_image_demo_zero_copy
+/home/cat/python_docs/lubancat_ai_manual_code/example/yolo11-myfish/cpp/install/rk3576_linux/./yolo11_videocapture_demo_zero_copy
+/home/cat/python_docs/lubancat_ai_manual_code/example/yolo11-myfish/cpp/install/rk3576_linux/model/image00500.png
+/home/cat/python_docs/lubancat_ai_manual_code/example/yolo11-myfish/cpp/install/rk3576_linux/model/myfish_list.txt
+/home/cat/python_docs/lubancat_ai_manual_code/example/yolo11-myfish/cpp/install/rk3576_linux/model/myfish_rect.rknn
+/home/cat/python_docs/lubancat_ai_manual_code/example/yolo11-myfish/cpp/install/rk3576_linux/lib/librknnrt.so
+/home/cat/python_docs/lubancat_ai_manual_code/example/yolo11-myfish/cpp/install/rk3576_linux/lib/librga.so
